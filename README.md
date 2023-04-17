@@ -11,5 +11,10 @@ I can be a real farmer, but instead of choosing to plow the land, I choose to pl
 Connect with me at: <a href="https://www.facebook.com/100012024392867">Facebook</a>|<a href="https://www.linkedin.com/in/tr%E1%BA%A7n-v%C4%83n-quang-44237b239/">LinkedIn</a>|<a href=""></a>
 
 <h3>Skill</h3>
+<ol>
+  <li>Data analysis: Python, R, Power BI, Excel</li>
+  <li>Business analysis: Report, UML, Use case diagram, sequence diagram, activity diagram</li>
+  <li>FrontEnd developer: HTML5, CSS3, Bootstrap</li>
+</ol>
 <h3>Member of</h3>
 <h3>Highlight project</h3>
