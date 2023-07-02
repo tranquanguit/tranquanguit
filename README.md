@@ -8,7 +8,7 @@ Always a guy who likes to sit still and think about everywhere and everything in
 I come from the land of coffee beans, where the highlands are sunny and windy, Dak Lak.
 I can be a real farmer, but instead of choosing to plow the land, I choose to plow code (I'm a developer):v
 
-Connect with me at: <a href="https://www.facebook.com/100012024392867">Facebook</a>|<a href="https://www.linkedin.com/in/tr%E1%BA%A7n-v%C4%83n-quang-44237b239/">LinkedIn</a>|<a href=""></a>
+Connect with me at: <a href="https://www.facebook.com/tranquang214">Facebook</a>|<a href="https://www.linkedin.com/in/tranquang214/">LinkedIn</a>|<a href=""></a>
 
 <h3>Skills</h3>
 <ol>
