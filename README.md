@@ -18,7 +18,16 @@ Connect with me at: <a href="https://www.facebook.com/100012024392867">Facebook<
   <li>Other: Communication skill, Presentation skill, Teamwork, Organizational Skill</li>
 </ol>
 <h3>Strengths</h3>
-### ERP - Enterprise Resources Planning
-### CRM - Customer Relationship Management
+<strong>ERP</strong> - Enterprise Resources Planning
+<strong>CRM</strong> - Customer Relationship Management
 <h3>Highlight project</h3>
-### 
+<ul>
+  <li><strong>Building sports store management system</strong> <br>
+    - My contribution: Leader cam Business analyst (System process analysis and design, Database Design, Create report, Design User Interface)<br>
+    - Link Github: https://github.com/NhomDoAnUIT/PTTKHTTT_IS201.M22.git <br>
+  </li>
+  <li> <strong>Odoo system supply chain management Fivemen coffee enterprise</strong> <br>
+    - My contribution: Leader cam Business analyst (System process analysis and design, Create report, BPMN analysis and design, Design User Interface, Designer)<br>
+    - Link Project: https://drive.google.com/drive/folders/1JuKZihm3PmcRg3x4d7LBezbC_b-GJUOv?usp=share_link <br>
+  </li>
+</ul>
