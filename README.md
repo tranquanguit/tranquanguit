@@ -17,9 +17,9 @@ Connect with me at: <a href="https://www.facebook.com/100012024392867">Facebook<
   <li>Business analysis: Github, Create report, Business Process Model and Notation (BPMN), Unified Modeling Language (UML)</li>
   <li>Other: Communication skill, Presentation skill, Teamwork, Organizational Skill</li>
 </ol>
-<h3>Strengths</h3>
-<strong>ERP</strong> - Enterprise Resources Planning
-<strong>CRM</strong> - Customer Relationship Management
+<h3>Areas of strength</h3>
+<strong>ERP</strong> - Enterprise Resources Planning <br>
+<strong>CRM</strong> - Customer Relationship Management <br>
 <h3>Highlight project</h3>
 <ul>
   <li><strong>Building sports store management system</strong> <br>
