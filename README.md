@@ -17,5 +17,8 @@ Connect with me at: <a href="https://www.facebook.com/100012024392867">Facebook<
   <li>Business analysis: Github, Create report, Business Process Model and Notation (BPMN), Unified Modeling Language (UML)</li>
   <li>Other: Communication skill, Presentation skill, Teamwork, Organizational Skill</li>
 </ol>
-<h3>Member of</h3>
+<h3>Strengths</h3>
+### ERP - Enterprise Resources Planning
+### CRM - Customer Relationship Management
 <h3>Highlight project</h3>
+### 
