@@ -10,7 +10,7 @@ I can be a real farmer, but instead of choosing to plow the land, I choose to pl
 
 Connect with me at: <a href="https://www.facebook.com/100012024392867">Facebook</a>|<a href="https://www.linkedin.com/in/tr%E1%BA%A7n-v%C4%83n-quang-44237b239/">LinkedIn</a>|<a href=""></a>
 
-<h3>Skill</h3>
+<h3>Skills</h3>
 <ol>
   <li>Developer: Python, Java, HTML5, CSS3, Bootstrap</li>
   <li>Data analysis: Python, Power BI, Excel</li>
@@ -20,7 +20,7 @@ Connect with me at: <a href="https://www.facebook.com/100012024392867">Facebook<
 <h3>Areas of strength</h3>
 <strong>ERP</strong> - Enterprise Resources Planning <br>
 <strong>CRM</strong> - Customer Relationship Management <br>
-<h3>Highlight project</h3>
+<h3>Highlight projects</h3>
 <ul>
   <li><strong>Building sports store management system</strong> <br>
     - My contribution: Leader cam Business analyst (System process analysis and design, Database Design, Create report, Design User Interface)<br>
