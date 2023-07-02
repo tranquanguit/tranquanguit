@@ -12,9 +12,10 @@ Connect with me at: <a href="https://www.facebook.com/100012024392867">Facebook<
 
 <h3>Skill</h3>
 <ol>
-  <li>Data analysis: Python, R, Power BI, Excel</li>
-  <li>Business analysis: Report, UML, Use case diagram, sequence diagram, activity diagram</li>
-  <li>FrontEnd developer: HTML5, CSS3, Bootstrap</li>
+  <li>Developer: Python, Java, HTML5, CSS3, Bootstrap</li>
+  <li>Data analysis: Python, Power BI, Excel</li>
+  <li>Business analysis: Github, Create report, Business Process Model and Notation (BPMN), Unified Modeling Language (UML)</li>
+  <li>Other: Communication skill, Presentation skill, Teamwork, Organizational Skill</li>
 </ol>
 <h3>Member of</h3>
 <h3>Highlight project</h3>
