@@ -12,7 +12,8 @@ Connect with me at: <a href="https://www.facebook.com/tranquang214">Facebook</a>
 
 <h3>Work experience</h3>
 <ol>
-  <li><strong>7/2023 - Now: </strong>SAP ABAP Developer at <strong>FPT Information Systems</strong></li>
+  <ul><strong>8/2020 - 7/2023: </strong>Student University at <strong>University of Information Technology Vietnam National University (HCMUIT)</strong></ul>
+  <ul><strong>7/2023 - Now: </strong>SAP ABAP Developer at <strong>FPT Information Systems</strong></ul>
 </ol>
 <h3>Skills</h3>
 <ol>
