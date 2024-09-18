@@ -11,10 +11,8 @@ I can be a real farmer, but instead of choosing to plow the land, I choose to pl
 Connect with me at: <a href="https://www.facebook.com/tranquang214">Facebook</a>|<a href="https://www.linkedin.com/in/tranquang214/">LinkedIn</a>|<a href=""></a>
 
 <h3>Work experience</h3>
-<ol>
-  <ul><strong>8/2020 - 7/2023: </strong>Student University at <strong>University of Information Technology Vietnam National University (HCMUIT)</strong></ul>
-  <ul><strong>7/2023 - Now: </strong>SAP ABAP Developer at <strong>FPT Information Systems</strong></ul>
-</ol>
+  <ol><strong>8/2020 - 7/2023: </strong>Student University at <strong>University of Information Technology Vietnam National University (HCMUIT)</strong></ol>
+  <ol><strong>7/2023 - Now: </strong>SAP ABAP Developer at <strong>FPT Information Systems</strong></ol>
 <h3>Skills</h3>
 <ol>
   <li>Developer: SAP ABAP, Python</li>
