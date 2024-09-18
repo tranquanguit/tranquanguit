@@ -10,9 +10,13 @@ I can be a real farmer, but instead of choosing to plow the land, I choose to pl
 
 Connect with me at: <a href="https://www.facebook.com/tranquang214">Facebook</a>|<a href="https://www.linkedin.com/in/tranquang214/">LinkedIn</a>|<a href=""></a>
 
+<h3>Work experience</h3>
+<ol>
+  <li><strong>7/2023 - Now: </strong>SAP ABAP Developer at <strong>FPT Information Systems</strong></li>
+</ol>
 <h3>Skills</h3>
 <ol>
-  <li>Developer: Python, Java, HTML5, CSS3, Bootstrap</li>
+  <li>Developer: SAP ABAP, Python</li>
   <li>Data analysis: Python, Power BI, Excel</li>
   <li>Business analysis: Github, Create report, Business Process Model and Notation (BPMN), Unified Modeling Language (UML)</li>
   <li>Other: Communication skill, Presentation skill, Teamwork, Organizational Skill</li>
