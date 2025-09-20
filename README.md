@@ -1,36 +1,73 @@
-<h1>👋 Hi everyone</h1>
+# 👋 Hi, I'm Tran Van Quang
 
-From: Vietnam VN
+💻 **SAP ABAP Developer | Data Enthusiast | Problem Solver**  
+From Vietnam 🇻🇳 | Based in Ho Chi Minh City  
 
-My full name is <strong>Tran Van Quang</strong>.
-Always a guy who likes to sit still and think about everywhere and everything in the world
+---
 
-I come from the land of coffee beans, where the highlands are sunny and windy, Dak Lak.
-I can be a real farmer, but instead of choosing to plow the land, I choose to plow code (I'm a developer):v
+### 🌟 About Me
+I come from Dak Lak – the land of coffee beans, sunshine, and wind.  
+Instead of being a farmer, I chose to **"plow code"** ☕💻.  
 
-Connect with me at: <a href="https://www.facebook.com/tranquang214">Facebook</a>|<a href="https://www.linkedin.com/in/tranquang214/">LinkedIn</a>|<a href=""></a>
+Passionate about **ERP systems, data integration, and business process optimization**.  
+Always eager to learn, share knowledge, and build impactful solutions.
 
-<h3>Work experience</h3>
-  <ol><strong>8/2020 - 7/2023: </strong>Student University at <strong>University of Information Technology Vietnam National University (HCMUIT)</strong></ol>
-  <ol><strong>7/2023 - Now: </strong>SAP ABAP Developer at <strong>FPT Information Systems</strong></ol>
-<h3>Skills</h3>
-<ol>
-  <li>Developer: SAP ABAP, Python</li>
-  <li>Data analysis: Python, Power BI, Excel</li>
-  <li>Business analysis: Github, Create report, Business Process Model and Notation (BPMN), Unified Modeling Language (UML)</li>
-  <li>Other: Communication skill, Presentation skill, Teamwork, Organizational Skill</li>
-</ol>
-<h3>Areas of strength</h3>
-<strong>ERP</strong> - Enterprise Resources Planning <br>
-<strong>CRM</strong> - Customer Relationship Management <br>
-<h3>Highlight projects</h3>
-<ul>
-  <li><strong>Building sports store management system</strong> <br>
-    - My contribution: Leader cam Business analyst (System process analysis and design, Database Design, Create report, Design User Interface)<br>
-    - Link Github: https://github.com/NhomDoAnUIT/PTTKHTTT_IS201.M22.git <br>
-  </li>
-  <li> <strong>Odoo system supply chain management Fivemen coffee enterprise</strong> <br>
-    - My contribution: Leader cam Business analyst (System process analysis and design, Create report, BPMN analysis and design, Design User Interface, Designer)<br>
-    - Link Project: https://drive.google.com/drive/folders/1JuKZihm3PmcRg3x4d7LBezbC_b-GJUOv?usp=share_link <br>
-  </li>
-</ul>
+---
+
+### 💼 Experience
+- **SAP ABAP Developer** @ [FPT Information Systems](https://www.fpt-is.com/) (07/2023 – Present)  
+  - Develop and optimize SAP S/4HANA custom modules, reports, and APIs.  
+  - Integrate SAP with third-party systems via API, BAPI, PI/PO, and OData.  
+  - Improve performance using AMDP, CDS views, parallel processing, and optimization techniques.  
+  - Experienced in BAdI, Customer Exits, Enhancement Framework, RAP model, and Adobe Form.  
+  - 🏆 *Outstanding Employee of the Year 2024 – FPT ES HCM Technical Resource Center*
+
+- **Research Student** @ University of Information Technology, VNU-HCM (11/2020 – 11/2024)  
+  - Published research on **image classification with deep learning** in JIHMSP journal.  
+  - Hands-on projects in ERP and database systems.
+
+---
+
+### 🛠 Skills
+- **SAP ABAP & ERP**: ABAP, S/4HANA, BAdI, BAPI, AMDP, OOP, RAP, ALV Reports, Adobe Form  
+- **Data & Integration**: Data Warehouse, ETL, API, OData, PI/PO  
+- **Other Tools**: Power BI, Python, Excel  
+- **Soft Skills**: Problem-solving, Communication, Teamwork, Leadership, Presentation  
+
+---
+
+### 🚀 Leadership & Activities
+- **Sub-Leader** – FPT IS (06/2025 – 10/2025)  
+  Led a team of 4 in data integration & warehousing projects, defined KPIs, and ensured project delivery.  
+
+- **Secretary** – Youth Union, Faculty of Information Systems (2021 – 2024)  
+  Organized university-level events engaging 1,500+ students.  
+
+---
+
+### 📌 Highlight Projects
+- **Sports Store Management System**  
+  - Role: Team Leader & Business Analyst  
+  - Contributions: Process design, database design, reports, UI design  
+  - 🔗 [View on GitHub](https://github.com/NhomDoAnUIT/PTTKHTTT_IS201.M22.git)
+
+- **Odoo Supply Chain Management – Fivemen Coffee Enterprise**  
+  - Role: Leader & Business Analyst  
+  - Contributions: System analysis (BPMN), UI design, reporting, documentation  
+  - 🔗 [View Project](https://drive.google.com/drive/folders/1JuKZihm3PmcRg3x4d7LBezbC_b-GJUOv?usp=share_link)
+
+---
+
+### 🎓 Education
+- **University of Information Technology – VNU HCM**  
+  Bachelor in Information Systems (2020 – 2024)  
+  - Coursework: Java, ERP, Database Systems  
+  - 🏅 *Student with 5 Good Criteria Award (2021, 2022)*  
+
+---
+
+### 📬 Connect with Me
+🌐 [LinkedIn](https://www.linkedin.com/in/tranquang214/) | [Facebook](https://www.facebook.com/tranquang214) | ✉️ tranvanquang2104@gmail.com  
+
+---
+⭐ *“Plowing code, brewing coffee, and building meaningful solutions.”*  
